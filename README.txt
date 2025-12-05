@@ -41,3 +41,9 @@ Notas:
 - Los atributos de los archivos (fecha de modificación, permisos básicos) se conservan.
 
 ===========================================
+
+
+
+
+para compilar ejecutable:
+ python -m PyInstaller --onefile --name "copiaratxt" copiar_txt.py
